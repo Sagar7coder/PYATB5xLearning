@@ -1,0 +1,5 @@
+print("hello world")
+print("Sagar")
+print("sagar", 1234, "system")
+print("sagar", 1234, "system", sep= '*', end='__')
+print("sagar", 1234, "system")
